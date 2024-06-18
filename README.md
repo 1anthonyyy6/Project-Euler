@@ -1,2 +1,2 @@
 # Project-Euler
-Python Project Euler Solutions
+Repository of solutions to various Project Euler problems using Python
